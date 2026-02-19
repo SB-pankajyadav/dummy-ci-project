@@ -1,0 +1,12 @@
+{
+  "name": "dummy-ci-project",
+  "version": "1.0.0",
+  "description": "Dummy project for CI pipeline demo",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
